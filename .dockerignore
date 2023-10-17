@@ -1,0 +1,7 @@
+.next
+node_modules
+*.md
+LICENSE
+fork-bomb.c
+.yaml
+.gitignore
